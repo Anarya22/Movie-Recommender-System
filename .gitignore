@@ -1,0 +1,7 @@
+#venv
+# PyCharm files
+.idea/
+*.iml
+
+# Untracked content
+Colne/"Colne/" 
